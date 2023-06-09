@@ -1,0 +1,15 @@
+
+.Navbar{
+    background-color: grey;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    height: 5vw;
+    font-size: 3vw;
+}
+.logo{
+    margin-left: 1vw;
+}
+.cart-icon{
+    margin-right: 1vw;
+}

@@ -1,0 +1,21 @@
+.card{
+
+    width: 33%;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 5px ;
+    margin: 2vw;
+}
+.card-image{
+    border: 1px solid blue;
+    background-color: blue;
+    height: 20vw;
+}
+.card-title{
+    font-size: 3vw;
+    font: bolder;
+    color: black;
+}
+.card-description{
+    font-style: italic;
+}
